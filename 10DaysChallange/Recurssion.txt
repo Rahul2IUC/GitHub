@@ -1,1 +1,2 @@
 What is Recurssion?
+Whenever a function call itself it is called recurssion.
